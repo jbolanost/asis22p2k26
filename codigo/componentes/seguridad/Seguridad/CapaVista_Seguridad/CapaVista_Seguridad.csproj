@@ -35,7 +35,11 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\CapaControlador_Seguridad\bin\Debug\CapaControlador_Seguridad.dll</HintPath>
     </Reference>
-    <Reference Include="CapaVista_Navegador">
+    <Reference Include="CapaVista_Mantenimiento_Departamento">
+      <HintPath>..\..\Matenimiento2k26\CapaVista_Mantenimiento_Departamento\bin\Debug\CapaVista_Mantenimiento_Departamento.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaVista_Navegador, Version=0.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\navegador\Navegador\CapaVista_Navegador\bin\Debug\CapaVista_Navegador.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">

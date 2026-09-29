@@ -23,7 +23,7 @@
 
 using CapaControlador_Seguridad;
 using CapaControlador_Seguridad.Objetos_de_valor;
-using CapaVista_Navegador;
+using CapaVista_Mantenimiento_Departamento.Formulario;
 using CapaVista_Seguridad.Ayudas;
 using System;
 using System.Collections.Generic;
@@ -250,6 +250,8 @@ namespace CapaVista_Seguridad
 
             FrmNavegador Empleados = new FrmNavegador();
             Empleados.ShowDialog();
+
+            
         }
 
         private void SeguridadBtnAplicaciones_Click(object sender, EventArgs e)
